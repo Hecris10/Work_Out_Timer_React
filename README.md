@@ -1,6 +1,7 @@
 <h1>Work Out Timer made with React.TS</h1>
 <h2>Preview</h2>
- ![image](https://user-images.githubusercontent.com/38855938/187002576-85ac99a9-fe1c-4bf8-a861-59b054891b23.png)
+ ![image](https://user-images.githubusercontent.com/38855938/187002679-b2194bf7-aebb-482f-84d9-334974773d71.png)
+ 
  <p>Large Size</p>
  
  ![image](https://user-images.githubusercontent.com/38855938/187002522-0d583d88-c1e5-4624-9ed8-e37f146aac28.png)
