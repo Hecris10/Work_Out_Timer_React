@@ -2,7 +2,7 @@
 <h2>Preview</h2>
  <image src="https://user-images.githubusercontent.com/38855938/187002679-b2194bf7-aebb-482f-84d9-334974773d71.png" alt="Large-Size"/>
  <p>Large Size</p>
- <image src="https://user-images.githubusercontent.com/38855938/187002522-0d583d88-c1e5-4624-9ed8-e37f146aac28.png" alt="Small-Size/>
+ <image src="https://user-images.githubusercontent.com/38855938/187002522-0d583d88-c1e5-4624-9ed8-e37f146aac28.png" alt="Small-Size/">
   <p>Small Size</p>
 <h2>
 <h2>Specifications</h2>
